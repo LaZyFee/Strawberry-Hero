@@ -1,5 +1,7 @@
+## It's a begginer demo project of  creating a **hero section** using **React** & **tailwind css**
+
+
 ![alt text](image.png)
-it's a begginer demo project of react creating a hero section using tailwind css
 
 
 # React + Vite
